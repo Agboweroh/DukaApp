@@ -34,10 +34,11 @@ To run the server, run the following commands:
 Before starting 🏁, you need to have Flutter installed.
 ```
 # Clone this project
-$ git clone https://github.com/RathaKrishna/flutter_amazon_clone.git
+ git remote add origin https://github.com/Agboweroh/DukaApp.git
+
 
 # Access
-$ cd amazon_clone
+$ cd Dukapp
 
 # Pull dependencies
 $ flutter pub get
